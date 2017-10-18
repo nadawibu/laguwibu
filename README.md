@@ -1,0 +1,2 @@
+# laguwibu
+untuk js safelink
